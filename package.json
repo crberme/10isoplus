@@ -1,0 +1,14 @@
+{
+  "name": "10isoplus",
+  "version": "1.0.0-alpha",
+  "description": "Wrapper for Microsoft's Windows 10 ISO download page with aditional features.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Cristian Bermejo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
