@@ -1,6 +1,6 @@
 ## 10ISOplus
 
-Wrapper for Microsoft's Windows 10 ISO download page with aditional features.
+Wrapper for Microsoft's Windows 10 ISO download page with additional features.
 
 ### Features
 
